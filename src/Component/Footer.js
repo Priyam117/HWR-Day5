@@ -74,7 +74,7 @@ function Footer() {
           </a>
         </div>
         <p class="mt-8 text-base leading-6 text-center text-gray-400">
-          © 2023 made by Priyam. All rights reserved.
+          © 2023 made by Priyam Gautam. All rights reserved.
         </p>
       </div>
     </section>

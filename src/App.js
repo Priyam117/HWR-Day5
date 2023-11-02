@@ -6,18 +6,18 @@ import Section2 from './Component/Section2';
 import Section3 from './Component/Section3';
 import Footer from './Component/Footer';
 
-import QuotecardList from './Component/QuotecardList';
+// import QuotecardList from './Component/QuotecardList';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      {/* <Navbar />
+      <Navbar />
       <Main />
       <Section2 />
       <Section3 />
-      <Footer /> */}
-      <QuotecardList />
+      <Footer />
+      {/* <QuotecardList /> */}
 
     </div>
   );
